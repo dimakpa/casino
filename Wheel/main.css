@@ -1,0 +1,53 @@
+.wrapper_wheel > img {
+    position: absolute;
+    left: 978px;
+    top: 18px;
+    max-width: 60px;
+
+}
+
+h2 {
+    color: #406c81;
+    font: bold 60px/100px Gill Sans, Sans-Serif;
+    position: absolute;
+    top	: 170px;
+    left	: 185px;
+    width	: 100%;
+}
+
+.circle {
+    position: absolute;
+    left: 737px;
+    top: 87px;
+    width: 542px;
+    height: 542px;
+    background: #14222f;
+    border-radius: 50%;
+}
+
+
+
+
+.arc {
+    position: absolute;
+    left: 135px;
+    top: 135px;
+    border: 2px solid #263742;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    border-top-color: #263742;
+    transform: rotate(100deg)
+}
+
+.arc2 {
+    position: absolute;
+    left: 685px;
+    top: 35px;
+    border: 25px solid #263742;
+    border-radius: 50%;
+    height: 596px;
+    width: 596px;
+    border-top-color: #263742;
+    transform: rotate(100deg)
+}
